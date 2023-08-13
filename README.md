@@ -1,2 +1,2 @@
-# Predict defaulting on credit loans using classification technique
- Predict defaulting on credit loans using classification technique
+# Predict credit loan defaulters using classification models
+ Predict credit loan defaulters using classification models
